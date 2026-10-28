@@ -1,6 +1,5 @@
 # Lab Problem Statement 6: Statistical Analysis of Palmer Penguins
 **Prepared by:** Harshad Ahire (23102C0056)
-**Original author:** Dhruv D. Bhrasadiya
 **Date:** September 12, 2026
 
 ## Executive Summary
